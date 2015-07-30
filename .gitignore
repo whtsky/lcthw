@@ -3,3 +3,5 @@
 Makefile
 *.stackdump
 db.dat
+.idea
+*.o
